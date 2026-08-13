@@ -1,0 +1,21 @@
+Proje klasörünü açıp içine app.py, spor_verileri.csv ve requirements.txt dosyalarını koyun.
+
+Terminali (komut istemini) açıp cd klasor_yolu komutu ile proje klasörüne gidin.
+
+Gerekli kütüphaneleri yüklemek için pip install -r requirements.txt komutunu çalıştırın.
+
+Uygulamanın düzgün çalışıp çalışmadığını test etmek için python -m streamlit run app.py komutunu yazarak yerelde başlatın.
+
+Test işleminden sonra terminalde Ctrl + C tuşlarına basarak uygulamayı durdurun.
+
+Git altyapısını başlatmak için terminale git init yazın.
+
+Dosyaları Git takibine eklemek için git add . komutunu girin.
+
+Değişiklikleri kaydetmek için git commit -m "İlk commit: Spor istatistik ve analiz paneli" yazın.
+
+Varsayılan dal adını güncellemek için git branch -M main komutunu çalıştırın.
+
+Depoyu GitHub'daki adresinize bağlamak için git remote add origin [https://github.com/KULLANICI_ADINIZ/repo-adiniz.git](https://github.com/KULLANICI_ADINIZ/repo-adiniz.git) komutunu girin.
+
+Kodları GitHub'a göndermek için git push -u origin main komutunu yazın.
